@@ -14,6 +14,8 @@ public class Meetpatel {
     /**
      * @param args the command line arguments
      */
+    //command
+    //show AI
     public static void main(String[] args) {
         System.out.println("Hello");
          // TODO code application logic here
